@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(del check_links.py link_check_results.json)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
