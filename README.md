@@ -2,8 +2,8 @@
 
 Welcome! 👋
 
-This course is your gateway to understanding  Python’s applications for professional engineering.
-This is for those are completely new to Python and or programming for professional engineering.
+This course is your gateway to understanding Python's applications for professional engineering.
+This is for those who are completely new to Python and or programming for professional engineering.
 
 **Modules**
 
@@ -32,7 +32,7 @@ This is for those are completely new to Python and or programming for profession
 - There are no prerequisites for the Intro course! 🎉
 - Work your way through the lectures and practice with the examples, that’s it. Forge your own path along the way.
 
-## [Flocode Newsletter](http://flocode.substack.com)
+## [Flocode Newsletter](https://flocode.substack.com)
 
 ![newsletter.png](assets/newsletter.png)
 

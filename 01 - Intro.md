@@ -23,7 +23,7 @@ So let’s jump in and explore this fascinating topic.
 Let’s start with explaining the course, what it is and who it’s for.
 
 - No prior coding experience is necessary. This course is designed specifically for engineers new to programming.
-- I will provide a high level overview of Python and it’s relevance to engineering, in my case specifically the includes aspects of civil, structural and geotechnical engineering but of course these principles will apply broadly to all engineering disciplines.
+- I will provide a high level overview of Python and it's relevance to engineering, in my case specifically this includes aspects of civil, structural and geotechnical engineering but of course these principles will apply broadly to all engineering disciplines.
 - You’re busy, of course, we get it. Flocode courses are designed to contain the essentials. Sequentially ordered to give you exactly what you need. Much of the learning within flocode is based on promoting and instilling programmatic thinking. Of course we will learn about the nuts and bolts of Python, but this is a long term pursuit and It’s all about building the momentum you need to continue your own journey. Learning any new skill, especially one as complex and obtuse as programming is difficult and my role in this process is to make it as efficient and painless as possible.
 - By the end of this course, I want you to understand the value proposition of learning Python and ultimately feel ready to continue your learning journey.
 

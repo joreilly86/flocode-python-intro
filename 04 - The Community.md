@@ -69,7 +69,7 @@ For me personally, I’ve been training Brazilian Jiu Jitsu for a long time and 
 
 The community will be the heart of Flocode, and this is just the beginning of a much bigger long-term road-map for Flocode Community. That will be a topic for another day.
 
-Stay connected through the Flocode newsletter, podcast, and website at [flocode.dev](http://flocode.dev). 
+Stay connected through the Flocode newsletter, podcast, and website at [flocode.dev](https://flocode.dev). 
 
 In the next video, and the final video in the intro to Python course, we are going to talk about the learning Path at Flocode, and we will also cover a comprehensive road map for learning Python as an engineer, what you need to know and how to go about it. Thanks for watching, see you in the next one.
 

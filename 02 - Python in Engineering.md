@@ -77,10 +77,7 @@ In our industry, adaptability is crucial, it always has been. Python equips us w
 
 My main message here is:
 
-> **The tools may change but the principles don’t.**
-> 
-
-![tools change_principles dont.png](tools_change_principles_dont.png)
+> **The tools may change but the principles don't.**
 
 ## Overcoming Misconceptions
 

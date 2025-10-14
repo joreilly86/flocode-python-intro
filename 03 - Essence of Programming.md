@@ -14,7 +14,7 @@
 
 # **The Essence of Computer Programming**
 
-Hello and welcome back to video 3 of the FlowCode Intro to Python Series. In this video, we're going to delve into some fundamental programming principles. 
+Hello and welcome back to video 3 of the Flocode Intro to Python Series. In this video, we're going to delve into some fundamental programming principles. 
 
 I'd like to emphasize that this is not an in-depth exploration of coding or syntax. Instead, we'll take a high-level, fast-paced approach to provide you with an overview of the essential concepts in the beginner Python landscape. This will help you understand how the various components fit together, especially in an engineering context.
 
@@ -107,13 +107,13 @@ Just like a physical toolbox holds your tools, variables are the storage units w
 
 - **Flexibility:** Variables allow engineers to easily adjust and experiment with different parameters. Need to analyze multiple beam spans? Simply update the `beamLength` variable and rerun your calculations. Or even better, assign the variable `beamLength` to a list of beams with different lengths or a database of beams and their associated properties.
 - **Readability:** Imagine trying to keep track of raw numbers in a complex formula. Well-named variables make your code much easier to understand and debug. We want to focus on the logic and the process, and not getting bogged down in the numerical data. This is the cornerstone of thinking Pythonically.
-- **Organization:** Variables bring structure to your calculations. By assigning specific variables to forces, dimensions, material properties, and other releva nt parameters, you can create a clear and organized framework for your analyses. This structured approach maintains a clear overview of your computational model and ensures that each component of the project is accounted for and can be easily adjusted as needed.
+- **Organization:** Variables bring structure to your calculations. By assigning specific variables to forces, dimensions, material properties, and other relevant parameters, you can create a clear and organized framework for your analyses. This structured approach maintains a clear overview of your computational model and ensures that each component of the project is accounted for and can be easily adjusted as needed.
 
 **Let's Bring This to Life with an Example:**
 
-Say you're calculating the deflection of a simple beam with a load at the center. 
+Say you're calculating the deflection of a simple beam with a load at the center.
 
-![Untitled](Untitled.png)
+The deflection formula is:
 
 $$
 \delta = \frac{\text{P} \cdot \text{L}^3}{48 \cdot \text{E} \cdot I}
@@ -208,10 +208,7 @@ There are more advanced operators but we will cover those when appropriate.
 
 **Notes**
 
-- **Precedence:** Python follows standard mathematical order of operations (PEMDAS/BODMAS).
-
-![Untitled](Untitled%201.png)
-
+- **Precedence:** Python follows standard mathematical order of operations (PEMDAS/BODMAS: Parentheses, Exponents, Multiplication/Division, Addition/Subtraction).
 - **Type Matters:** Operators might behave differently based on the data types of the operands. But this is a topic for another day.
 
 ## Closing

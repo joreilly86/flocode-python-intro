@@ -100,9 +100,9 @@ You will be amazed at the utility of it for areas of personal interest outside e
 
 Looking ahead, the flocode courses will continue to unravel the potential of Python in engineering. We will dive deeper into specific applications, covering many areas of focus in civil and structural engineering, from the ground up.
 
-For those eager to continue this learning journey, visit [flocode.dev](http://flocode.dev/). You can find what you need there.
+For those eager to continue this learning journey, visit [flocode.dev](https://flocode.dev). You can find what you need there.
 
-Additionally, to stay updated on the latest trends, insights, educational materials, and everything that we’re building here at Flocode, make sure you are subscribed to our newsletter at [http://flocode.substack.com/](http://flocode.substack.com/). The newsletter is an excellent way to keep in touch with the community, discover new applications of Python in engineering, and get regular updates on how the Flocode project is progressing.
+Additionally, to stay updated on the latest trends, insights, educational materials, and everything that we're building here at Flocode, make sure you are subscribed to our newsletter at [https://flocode.substack.com](https://flocode.substack.com). The newsletter is an excellent way to keep in touch with the community, discover new applications of Python in engineering, and get regular updates on how the Flocode project is progressing.
 
 ---
 
