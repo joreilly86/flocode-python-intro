@@ -1,6 +1,6 @@
 # Flocode | Intro to Python
 
-![intro_banner.png](assets\intro_banner.png)
+![intro_banner.png](assets/intro_banner.png)
 
 Welcome! 👋
 
