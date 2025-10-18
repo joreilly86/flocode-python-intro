@@ -2,15 +2,11 @@
 
 **Modules**
 
-[01 - Intro](01%20-%20Intro.md)
-
-[02 - Python in Engineering](02%20-%20Python%20in%20Engineering.md)
-
-[03 - Essence of Programming](03%20-%20Essence%20of%20Programming.md)
-
-[04 - The Community](04%20-%20The%20Community.md)
-
-[05 - The Path](05%20-%20The%20Path.md)
+- [01 - Intro](01%20-%20Intro.md)
+- [02 - Python in Engineering](02%20-%20Python%20in%20Engineering.md)
+- [03 - Essence of Programming](03%20-%20Essence%20of%20Programming.md)
+- [04 - The Community](04%20-%20The%20Community.md)
+- [05 - The Path](05%20-%20The%20Path.md)
 
 > The Flocode community is a dedicated platform for engineers worldwide learning Python. It encourages collaborative learning, offers engineering-centric resources, mentorship, and evolves based on community feedback, fostering inclusivity, respect, and problem-solving to enhance professional growth.
 
