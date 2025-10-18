@@ -21,6 +21,13 @@ If you're ready to dive into syntax or coding, you can check out the [Flocode Py
 
 [Flocode Intro to Python Course](https://www.youtube.com/watch?v=VzvxLa2XMHo&list=PLjbxCdRUFyavq7ZhqqA5IsVD7uf5-szoU)
 
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=VzvxLa2XMHo&list=PLjbxCdRUFyavq7ZhqqA5IsVD7uf5-szoU" target="_blank" rel="noopener noreferrer">
+        <img src="assets/youtube-intro-thumb.png" alt="YouTube intro thumbnail" width="320">
+    </a>
+</p>
+
+
 **© flocode, 2025**
 
 ## Prerequisites
